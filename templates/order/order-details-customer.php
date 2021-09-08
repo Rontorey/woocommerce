@@ -1,7 +1,7 @@
 <?php
 /**
  * Order Customer Details
- *
+ *If We Got It We Can Buy It .com Update 
  * This template can be overridden by copying it to yourtheme/woocommerce/order/order-details-customer.php.
  *
  * HOWEVER, on occasion WooCommerce will need to update template files and you
